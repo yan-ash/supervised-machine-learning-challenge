@@ -26,3 +26,7 @@ As we can see from the test data score is 0.9942. As a result of the classificat
 ### Found the important features below to see which factor has the most important influrence on helping the lending service companies to give loans.
 ![image](https://user-images.githubusercontent.com/109451707/208416986-88c71736-e7df-4b20-81b0-f3490bb02572.png)
 
+### Conclusion:
+As we could see from the ananlysis above, the testing data score from Logistic Regression is 0.9941 while that from Random Forest is 0.9919. 
+As a result, the Logistic Regression performed better. The ROC Curve shows us it is almost perfect. 
+We could also observe that the all the important features listed in the bar above. Interest-rate is the most important features for the bank to consider whether or not to approve the loan.
